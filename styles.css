@@ -61,7 +61,8 @@
 
 .card__time-title {
   font-size: 20px;
-  margin-top: 0;
+  margin-block-start: 0;
+  margin-block-end: 0;
   color: var(--color-pink-dark);
 }
 
@@ -75,7 +76,14 @@
   align-items: center;
 }
 
+.card__time-item > p {
+  margin: 0;
+}
+
 .card__time-item::before {
   content: '•';
+  color: var(--color-pink-dark);
+  margin-inline-start: 7px;
+  margin-inline-end: 25px;
   font-size: 24px;
 }
