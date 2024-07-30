@@ -11,7 +11,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Links
 
 - Solution URL: [https://github.com/Evgeniy-Hozyainov/fmentor-recipe-page](https://github.com/Evgeniy-Hozyainov/fmentor-recipe-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://evgeniy-hozyainov.github.io/fmentor-recipe-page/](https://evgeniy-hozyainov.github.io/fmentor-recipe-page/)
 
 ## Built with
 
